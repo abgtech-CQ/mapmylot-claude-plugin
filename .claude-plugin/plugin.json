@@ -23,7 +23,7 @@
   ],
   "icon": "./icon.png",
   "documentationUrl": "https://mapmylot.com/ai-connector.html",
-  "supportUrl": "mailto:info@mapmylot.com",
+  "supportUrl": "https://github.com/abgtech-CQ/mapmylot-claude-plugin/issues",
   "privacyPolicyUrl": "https://mapmylot.com/privacy.html",
   "termsOfServiceUrl": "https://mapmylot.com/tos.html"
 }
