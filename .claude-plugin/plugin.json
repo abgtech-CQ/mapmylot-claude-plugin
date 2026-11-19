@@ -1,5 +1,6 @@
 {
   "name": "mapmylot",
+  "displayName": "MapMyLot",
   "version": "1.0.0",
   "description": "Look up land lots, their outline, size and planning and hazard constraints from official cadastre data in Australia, New Zealand, Canada and the UK.",
   "author": {
@@ -8,6 +9,7 @@
     "url": "https://mapmylot.com"
   },
   "homepage": "https://mapmylot.com/ai-connector.html",
+  "repository": "https://github.com/abgtech-CQ/mapmylot-claude-plugin",
   "license": "Proprietary",
   "keywords": [
     "property",
