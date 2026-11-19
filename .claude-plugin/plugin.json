@@ -1,10 +1,10 @@
 {
   "name": "mapmylot",
-  "displayName": "MapMyLot",
+  "displayName": "Map My Lot",
   "version": "1.0.0",
   "description": "Look up land lots, their outline, size and planning and hazard constraints from official cadastre data in Australia, New Zealand, Canada and the UK.",
   "author": {
-    "name": "MapMyLot",
+    "name": "Map My Lot",
     "email": "info@mapmylot.com",
     "url": "https://mapmylot.com"
   },
