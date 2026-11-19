@@ -1,0 +1,27 @@
+{
+  "name": "mapmylot",
+  "version": "1.0.0",
+  "description": "Look up land lots, their outline, size and planning and hazard constraints from official cadastre data in Australia, New Zealand, Canada and the UK.",
+  "author": {
+    "name": "MapMyLot",
+    "email": "info@mapmylot.com",
+    "url": "https://mapmylot.com"
+  },
+  "homepage": "https://mapmylot.com/ai-connector.html",
+  "license": "Proprietary",
+  "keywords": [
+    "property",
+    "land",
+    "lot",
+    "parcel",
+    "cadastre",
+    "flood",
+    "zoning",
+    "boundary"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://mapmylot.com/ai-connector.html",
+  "supportUrl": "mailto:info@mapmylot.com",
+  "privacyPolicyUrl": "https://mapmylot.com/privacy.html",
+  "termsOfServiceUrl": "https://mapmylot.com/tos.html"
+}

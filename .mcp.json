@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mapmylot": {
+      "type": "http",
+      "url": "https://mapmylot.com/mcp"
+    }
+  }
+}
